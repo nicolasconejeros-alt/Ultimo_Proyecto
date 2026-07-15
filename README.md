@@ -2,7 +2,7 @@
 
 ## Descripción:
 
-Este proyecto consiste en un dashboard interactivo desarrollado con Streamlit para visualizar el crecimiento anual del PIB de los países pertenecientes a la OCDE (Organización para la Cooperación y el Desarrollo Económicos).
+Este proyecto consiste en un dashboard interactivo desarrollado con Streamlit para visualizar el crecimiento anual del PIB de los países pertenecientes a la OCDE (Organización para la Cooperación y el Desarrollo Económico).
 
 El usuario puede:
 
